@@ -1,2 +1,2 @@
-# Angry-Birds-game---Inheritance-version
-#### Many child classes extends from one parent class
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
